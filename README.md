@@ -141,3 +141,4 @@ This project implements Deep Q-Learning (DQN), a reinforcement learning algorith
 - Target running reward: 800 points
 - Maximum training frames: 10 million
 - Early stopping if target achieved
+
